@@ -3,7 +3,7 @@
 ![Awesome AI Security Posture Management Banner](assets/banner.svg)
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a> <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Security-Posture-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Security-Posture-Management?style=flat-square" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Security-Posture-Management"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Security-Posture-Management?style=flat-square" alt="GitHub Last Commit"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome List"/></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"/></a> <a href="http://makeapullrequest.com"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Security-Posture-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Security-Posture-Management?style=flat-square" alt="GitHub Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-AI-Security-Posture-Management"><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-AI-Security-Posture-Management?style=flat-square" alt="GitHub Last Commit"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 > **A curated directory of top Enterprise SaaS platforms and Open-Source tools for AI Security Posture Management (AI-SPM), LLM Security, AI Red Teaming, Guardrails, Model Serialization Scanning, and MLOps Security.** 
@@ -17,6 +17,7 @@
 - [🔓 Top Open-Source GitHub Projects](#-top-open-source-github-projects)
 - [🎯 Frameworks & Standards](#-frameworks--standards)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [⚖️ Disclaimer](#%EF%B8%8F-disclaimer)
 - [📈 Star History](#-star-history)
 
@@ -94,6 +95,25 @@ Contributions are warmly welcomed! Help expand and improve this directory:
 2. 📝 Add or update entries in `README.md` following the established table structure.
 3. 🔗 Include accurate links, factual concise descriptions, exact pricing/trial information, and current GitHub repo stars.
 4. 🚀 Open a **Pull Request (PR)** with a clear title and description.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you for visiting and using this repository! If you find this curated directory helpful for your AI security research, infrastructure, or team, please consider supporting the project:
+
+- 🌟 **Star this repository** to help others discover it!
+- 🍴 **Fork & Share** with fellow security engineers, MLOps practitioners, and AI leads.
+- ☕ **Sponsor / Buy a Coffee**: If you'd like to support ongoing maintenance and research, visit the [Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub"/>
+  </a>
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
+  </a>
+</p>
 
 ---
 
